@@ -4,3 +4,6 @@
 [submodule "main"]
 	path = main
 	url = https://github.com/gangz-bot/main.git
+[submodule "dev_lab_7"]
+	path = dev_lab_7
+	url = https://github.com/gangz-bot/dev_lab_7.git
